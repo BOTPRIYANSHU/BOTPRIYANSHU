@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a btech 2nd year student at central university of punjab <br><br>A B.Tech CS student trying to write slightly better code every day.<br> I solve problems with C++/Python, learn from open source and <br>will be pushing  all my experiments here.<br><br>fun fact about  me  : <br>A B.Tech CS student trying to be an ENGINEER INSTEAD OF CS engineer 
+I am currently a btech 2nd year student at central university of punjab <br><br>A B.Tech CS student trying to write slightly better code every day.<br> I solve problems with C++/Python, learn from open source and <br>will be pushing  all my experiments here.<br><br><br>A B.Tech CS student trying to be an ENGINEER INSTEAD OF CS engineer 
 
 
 ## 🌐 Socials:
